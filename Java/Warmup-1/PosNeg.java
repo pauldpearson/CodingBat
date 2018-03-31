@@ -7,7 +7,4 @@ posNeg(-4, -5, true) → true
  */
 
 public class PosNeg {
-    public boolean posNeg(int a, int b, boolean negative) {
-
-    }
 }

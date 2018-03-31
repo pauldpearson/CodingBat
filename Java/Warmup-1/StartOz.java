@@ -7,7 +7,4 @@ startOz("oxx") → "o"
  */
 
 public class StartOz {
-    public String startOz(String str) {
-
-    }
 }

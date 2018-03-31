@@ -7,7 +7,4 @@ frontTimes("Abc", 3) → "AbcAbcAbc"
  */
 
 public class FrontTimes {
-    public String frontTimes(String str, int n) {
-
-    }
 }

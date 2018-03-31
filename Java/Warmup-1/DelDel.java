@@ -7,7 +7,4 @@ delDel("adedbc") → "adedbc"
  */
 
 public class DelDel {
-    public String delDel(String str) {
-
-    }
 }
