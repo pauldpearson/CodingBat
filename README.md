@@ -2,8 +2,6 @@
 
 [Coding Bat website](http://codingbat.com/)
 
-*Clone into your favorite IDE and get to work*
-
 #### Java Help 
 
 [Java Sample Solution Code](http://codingbat.com/doc/java-example-solution-code.html)
