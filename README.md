@@ -33,3 +33,12 @@
 [Java Functional Filtering](http://codingbat.com/doc/java-functional-filtering.html)
 
 [Introduction to Mod](http://codingbat.com/doc/practice/mod-introduction.html)
+
+
+#### Misc Code Practice
+
+[Introduction to Mod Code](http://codingbat.com/doc/practice/mod-introduction.html)
+
+[Introduction to MakeBricks](http://codingbat.com/doc/practice/makebricks-introduction.html)
+
+[FizzBuzz Practice Code](http://codingbat.com/doc/practice/fizzbuzz-code.html)
