@@ -1,6 +1,6 @@
 ## Coding Bat exercises in Java
 
-[Coding Bat website](http://codingbat.com/)
+[Coding Bat Java](http://codingbat.com/java)
 
 #### Java Help 
 
