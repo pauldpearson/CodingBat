@@ -7,4 +7,19 @@ front3("abc") → "abcabcabc"
  */
 
 public class Front3 {
+
+    private static String front3(String str) {
+
+        if(str.length() <= 3) {
+            return str + str + str;
+        }
+        String three = str.substring(0, 3);
+        return three + three + three;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(front3("Java"));
+        System.out.println(front3("Chocolate"));
+        System.out.println(front3("abc"));
+    }
 }

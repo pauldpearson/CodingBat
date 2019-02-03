@@ -6,5 +6,5 @@ sameEnds([5, 6, 45, 99, 13, 5, 6], 2) → true
 sameEnds([5, 6, 45, 99, 13, 5, 6], 3) → false
  */
 
-public class SameEnds {
-}
+//public class SameEnds {
+//}

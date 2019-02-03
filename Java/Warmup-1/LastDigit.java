@@ -6,5 +6,5 @@ lastDigit(6, 17) → false
 lastDigit(3, 113) → true
  */
 
-public class LastDigit {
-}
+//public class LastDigit {
+//}

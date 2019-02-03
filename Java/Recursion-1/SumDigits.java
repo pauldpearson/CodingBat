@@ -6,5 +6,5 @@ sumDigits(49) → 13
 sumDigits(12) → 3
  */
 
-public class SumDigits {
-}
+//public class SumDigits {
+//}

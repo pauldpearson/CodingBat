@@ -7,4 +7,20 @@ front22("abc") → "ababcab"
  */
 
 public class Front22 {
+
+    private static String front22(String str) {
+
+        String two = str.substring(0, 2);
+
+        if(str.length() <= 2) {
+            return str + str + str;
+        }
+        return two + str + two;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(front22("kitten"));
+        System.out.println(front22("Ha"));
+        System.out.println(front22("abc"));
+    }
 }

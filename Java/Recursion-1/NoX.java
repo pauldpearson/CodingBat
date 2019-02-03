@@ -6,5 +6,5 @@ noX("abc") → "abc"
 noX("xx") → ""
  */
 
-public class NoX {
-}
+//public class NoX {
+//}

@@ -6,5 +6,5 @@ countHi("ABChi hi") → 2
 countHi("hihi") → 2
  */
 
-public class CountHi {
-}
+//public class CountHi {
+//}
